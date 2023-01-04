@@ -11,7 +11,7 @@ GPT_MODEL = "text-davinci-003"
 st.title('cleversearch.ai')
 
 st.header("An AI powered search tool.")
-st.subheader('Powered by OpenAI')
+st.subheader('By Johannes du Plessis')
 
 # Create a textbox for the user to input their search query
 query = st.text_input("Enter a search query:")
