@@ -64,4 +64,3 @@ if query:
         st.write(result["snippet"])
 
 
-st.write("Created by Johannes du Plessis")
